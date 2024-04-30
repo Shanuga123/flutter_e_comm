@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "3316518017",
+    "project_id": "ecomm-8008b",
+    "storage_bucket": "ecomm-8008b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3316518017:android:cbbfb3900fc1f8ee02d180",
+        "android_client_info": {
+          "package_name": "com.example.balochdev_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3316518017-8e91cgblbejt6p09e0lpbnv77nhihl89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0IIzUf_V6PjVeQepzz46FX0hEfKOriCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3316518017-8e91cgblbejt6p09e0lpbnv77nhihl89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3316518017-13c7mnfqsk7l4s0dmh5rka4ne56ssfgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsmartAdminAr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3316518017:android:c927e51704769e1002d180",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onlineshop_admin_panal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3316518017-8e91cgblbejt6p09e0lpbnv77nhihl89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0IIzUf_V6PjVeQepzz46FX0hEfKOriCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3316518017-8e91cgblbejt6p09e0lpbnv77nhihl89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "3316518017-13c7mnfqsk7l4s0dmh5rka4ne56ssfgo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopsmartAdminAr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
